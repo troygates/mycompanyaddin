@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>CompanyCustomTab Addin</Name>
+    <Assembly>CompanyCustomTab.dll</Assembly>
+    <AddInId>4493C2D7-6FB2-4D8B-A889-7CC21EB9F3B7</AddInId>
+    <FullClassName>CompanyCustomTab.App</FullClassName>
+    <VendorId>TRG</VendorId>
+  </AddIn>
+</RevitAddIns>

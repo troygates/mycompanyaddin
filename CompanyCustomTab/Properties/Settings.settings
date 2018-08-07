@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CompanyCustomTab.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RevitTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CustomTab</Value>
+    </Setting>
+    <Setting Name="EmailSupport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">troygates@gmail.com</Value>
+    </Setting>
+    <Setting Name="RevitServerAdmin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RevitServerName</Value>
+    </Setting>
+    <Setting Name="ShowRevitServerAdmin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IntranetAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourcompanysintranet/home/etc</Value>
+    </Setting>
+    <Setting Name="Website1Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.website1.com</Value>
+    </Setting>
+    <Setting Name="Website1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Website 1 Name</Value>
+    </Setting>
+    <Setting Name="Website2Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.website2.com</Value>
+    </Setting>
+    <Setting Name="Website2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Website 2 Name</Value>
+    </Setting>
+    <Setting Name="Website3Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.website3.com</Value>
+    </Setting>
+    <Setting Name="Website3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Website 3 Name</Value>
+    </Setting>
+    <Setting Name="IntranetName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Company Intranet</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

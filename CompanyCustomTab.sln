@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyCustomTab", "CompanyCustomTab\CompanyCustomTab.csproj", "{27097C72-F05A-4E2A-97AE-BE9C9A37C595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2017|Any CPU = 2017|Any CPU
+		2018|Any CPU = 2018|Any CPU
+		2019|Any CPU = 2019|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2017|Any CPU.ActiveCfg = 2017|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2017|Any CPU.Build.0 = 2017|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2018|Any CPU.ActiveCfg = 2018|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2018|Any CPU.Build.0 = 2018|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2019|Any CPU.ActiveCfg = 2019|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.2019|Any CPU.Build.0 = 2019|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27097C72-F05A-4E2A-97AE-BE9C9A37C595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180837B5-1EB5-4B0C-AFB7-C9FA0A01D211}
+	EndGlobalSection
+EndGlobal
