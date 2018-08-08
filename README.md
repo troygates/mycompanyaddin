@@ -1,2 +1,2 @@
 # mycompanyaddin
-Revit addin for companies' to customize and rollout to their users.
+Revit addin for companies to customize, brand, and rollout to their users.
